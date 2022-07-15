@@ -11,7 +11,7 @@ I'm João!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorcunha&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### :gear: Languages, Frameworks, Technologies and Tools:
+### :gear: Languages, Frameworks, Technologies and Tools
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,7 +22,7 @@ I'm João!
 
 ##
 
-### :globe_with_meridians: Social:
+### :globe_with_meridians: Social
 
 <div> 
     <a href="https://www.linkedin.com/in/joaoricardounha832586139/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
