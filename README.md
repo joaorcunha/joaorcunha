@@ -3,7 +3,7 @@
 I'm João!
 
 - Studying Software Engineering, over a year.
-- Currently learning Javascript technology .
+- Currently learning Javascript technology.
 
 <div> <!--align="center"-->
   <a href="https://github.com/joaorcunha">
